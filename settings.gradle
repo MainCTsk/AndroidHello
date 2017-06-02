@@ -1,1 +1,1 @@
-include ':app', ':l001activity', ':l002service'
+include ':app', ':l001activity', ':l002service', ':l003broadcastreceiver', ':l004contentprovider'

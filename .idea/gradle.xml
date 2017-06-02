@@ -11,6 +11,8 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/l001activity" />
             <option value="$PROJECT_DIR$/l002service" />
+            <option value="$PROJECT_DIR$/l003broadcastreceiver" />
+            <option value="$PROJECT_DIR$/l004contentprovider" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

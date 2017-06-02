@@ -50,7 +50,7 @@
         android:layout_alignStart="@+id/btnBindService" />
 
     <Button
-        android:id="@+id/btnGetNum"
+        android:id="@+id/btnGetNum "
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
