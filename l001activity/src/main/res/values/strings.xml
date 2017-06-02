@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L001Activity</string>
+    <string name="main_button">Slave Activity</string>
+    <string name="slave_button">Main Activity</string>
+    <string name="main_say">MainActivity</string>
+    <string name="slave_say">SlaveActivity</string>
+</resources>
