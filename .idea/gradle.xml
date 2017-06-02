@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/l001activity" />
+            <option value="$PROJECT_DIR$/l002service" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

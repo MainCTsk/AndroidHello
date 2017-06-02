@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">L002Service</string>
+    <string name="start_button">Start Service</string>
+    <string name="stop_button">Stop Service</string>
+    <string name="bind_button">Bind Service</string>
+    <string name="unbind_button">Unbind Service</string>
+</resources>
