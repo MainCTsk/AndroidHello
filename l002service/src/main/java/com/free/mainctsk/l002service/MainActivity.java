@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.btnUnbindService:
                 unbindService(this);
+                echoService = null;
                 break;
             case R.id.btnGetNum:
                 if(echoService!=null)
